@@ -2,15 +2,14 @@
 ###  IMC calculator project taught by Rocketseat<h3>
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114286800/196427926-4965a689-49db-47a3-94a2-935facfd3d14.png", style="width:70%" />
-<img src="https://user-images.githubusercontent.com/114286800/196427931-9ab9fec2-dfba-45ee-9821-68eed21dc393.png", style="width:70%"/>
+<img src="https://user-images.githubusercontent.com/114286800/198611587-7fb7bad1-d548-48e6-9d21-5383e1ac47c5.png", style="width:70%" />
+<img src="https://user-images.githubusercontent.com/114286800/198611599-5dc85845-1eda-4eff-824b-ca1705c31ae2.png", style="width:70%"/>
 </div>
 <br/>
 <br/>
 This simple project built in conjunction with the explorer course on the Rocketseat platform.
 <br/>
 <br/>
-
 
 ### Language:<h3>
 <div align="lest">
